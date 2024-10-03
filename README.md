@@ -1,4 +1,11 @@
 #Compile instructions for Java
+github instructions and example
+
+
+classpractice 2 has scanner  and array and console input example
+
+
+
 javac --source-path myapp -d bin myapp/*
 
 java -cp bin myapp.HelloWorld
